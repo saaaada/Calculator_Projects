@@ -4,5 +4,15 @@ Console.WriteLine("Enter first num");
 num1 = Console.ReadLine();
 Console.WriteLine("Enter second num");
 num2 = Console.ReadLine();
+ multiplication
+ division
+div =num1 / num2;
+Console.WriteLine($"The sub is {div}");
+=======
+mul = num1 * num2;
+Console.WriteLine($"The sub is {mul}");
+ multiplication
+=======
 sub=num1 - num2;
 Console.WriteLine($"The sub is {sub}");
+ subtraction
