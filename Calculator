@@ -14,7 +14,11 @@ mul = num1 * num2;
 Console.WriteLine($"The sub is {mul}");
  multiplication
 =======
+ conflict_branch2
+sub=num1 * num2;
+=======
 sub=num1 + num2;
+ main
 Console.WriteLine($"The sub is {sub}");
  subtraction
 =======
